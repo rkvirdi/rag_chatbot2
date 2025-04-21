@@ -1,0 +1,30 @@
+[
+
+   
+    {
+      "query": "best costume design?",
+      "ground_truth_document":"overall after Ruth E. Carter (for Black Panther and Black Panther: Wakanda Forever), to win Best Costume Design.[28][29][30]",
+      "answer": "Ruth E. Carter",
+      "relevant_ids": ["51be129b-317e-43e5-b6a4-841f4b41282f"]
+    },
+    {
+      "query": "nominees anouncement",
+      "ground_truth_document":"The nominees for the 97th Academy Awards were announced on January 23, 2025, at the Samuel Goldwyn Theater in Beverly Hills, by actress Rachel Sennott and actor Bowen Yang.[14] Emilia Pérez led all nominees with thirteen nominations, the most for a non-English-language film in Oscars history, while The Brutalist and Wicked tied for second with ten nominations each.[15] The winners were announced during the awards ceremony on March 2, 2025.[12]",
+      "answer": "The nominees for the 97th Academy Awards were announced on January 23, 2025, at the Samuel Goldwyn Theater in Beverly Hills, by actress Rachel Sennott and actor Bowen Yang ",
+      "relevant_ids": ["33cd77f3-a839-4c29-8c3b-eedba21994a2"]
+    },
+    {
+        "query": "how many awards the movie anora won?",
+        "ground_truth_document":"Anora won a leading five awards, including Best Picture.[12] Other winners included The Brutalist with three awards; Dune: Part Two, Emilia Pérez, and Wicked with two awards each; and Conclave, Flow, I'm Not a Robot, I'm Still Here, In the Shadow of the Cypress, No Other Land, The Only Girl in the Orchestra, A Real Pain, and The Substance with one each.[12] The telecast drew 19.69 million viewers in the United States.[3]",
+        "answer": "Anora won a leading five awards, including Best Picture",
+        "relevant_ids": ["ea2cd520-43b2-4098-ae26-a64a02719ddb"]
+      },
+      {
+        "query":"Deadpool & Wolverine stars?",
+        "ground_truth_document":"opportunity. A combo of Deadpool & Wolverine stars Hugh Jackman and Ryan Reynolds were also among those buzzed to be in the mix, but the latter told Deadline Hollywood that it was highly unlikely though he said he would like to host it with Jackman \"someday\".[8][40][41] As for the production team, returning to the telecast are Rob Paine as co-executive producer, Taryn Hurd and Sarah Levine Hall as producers, Mandy Moore as supervising choreographer, and Bob Dickinson and Noah Mitz as lighting",
+        "answer":" Deadpool & Wolverine stars Hugh Jackman and Ryan Reynolds ",
+        "relevant_ids":"15436a3e-b312-46fe-b33b-3b1fbad9ebb7"
+      }
+
+
+  ]
